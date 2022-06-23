@@ -3,3 +3,5 @@ This project was the Second challenge for coding bootcamp. For this challenge I 
 
 # Website
 https://evanbruce38.github.io/Challenge-2-My-Portfolio/
+
+![plot](/assets/images/challenge-2-my-portfolio-screenshot.png)
